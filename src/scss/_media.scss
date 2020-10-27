@@ -1,18 +1,11 @@
 @media (max-width: 1920px){
-  .shop{
-    min-height: 1080px;
-    &__inner{
-      margin-top: 196px;
-    }
+  .shop__inner{
+    margin-top: 196px;
   }
 }
-
 @media (max-width: 1470px){
-  .shop{
-    min-height: 768px;
-    &__inner{
-      margin-top: 45px;
-    }
+  .shop__inner{
+    margin-top: 45px;
   }
   .shop__item{
     flex-basis: calc(33.3333% - 5px);

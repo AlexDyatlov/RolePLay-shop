@@ -3,10 +3,8 @@
 @import 'global';
 
 .shop{
-  min-height: 1440px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  height: 100vh;
+  background: center/cover no-repeat;
   padding: 30px 0;
   text-align: center;
   &__title{
